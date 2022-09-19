@@ -1,12 +1,6 @@
 {
     "require": {
+         "php": ">=8.0",
         "psr/log": "1.0.0"
-    },
-    "config": {
-        "sort-packages": true,
-        "platform": {
-          "php": "8.0"
-        }
     }
-
 }
